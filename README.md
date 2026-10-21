@@ -54,4 +54,4 @@ $env:JAVA_HOME = "C:\Program Files\Java\jdk-17"
 .\gradlew.bat clean build
 ```
 
-Generated `SlinkyClient/build/libs/`:
+Generated `SlinkClient/build/libs/`:
