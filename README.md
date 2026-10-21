@@ -42,7 +42,7 @@ Output binaries will be placed in `build/bin/Release/`:
 
 ---
 
-### 2. Building the Client (`SlinkyClient`)
+### 2. Building the Client (`Slinkclient`)
 
 The client is a standalone Gradle project using [Unimined](https://github.com/unimined/Unimined) to resolve Minecraft 1.8.9 dependencies and MCP mappings automatically:
 
